@@ -4,28 +4,37 @@
     padding: 0;
 }
 
-header >p {
+h1 {
     text-align: center;
     font-size: 1.75em;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 section {
-    position: relative;
     background-color: #606c71;
-    padding: 2%;
+    border: 2px solid black;
     margin: 2%;
 }
 
-section div {
-    position: absolute;
-    top:0;
+.title {
+    position: relative;
+    top: 0;
     right: 0;
+    float: right;
     padding: 5px;
+    border: 1px solid black;
+    width: 20%;
+    text-align: center;
+    font-size: 1.25em;
+    color:white;
+}
+
+.content {
+    padding: 40px 20px 20px 20px;
 }
 
 div > p {
-    font-size: 1.25em;
+
 }
 
 #chicken {
