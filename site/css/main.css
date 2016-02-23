@@ -18,8 +18,8 @@ section {
 
 .title {
     position: relative;
-    top: 0;
-    right: 0;
+    top: 0px;
+    right: 0px;
     float: right;
     padding: 5px;
     border: 1px solid black;
