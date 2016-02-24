@@ -1,0 +1,39 @@
+
+.menu-block {
+    background-color: #9acfea;
+    padding: 20px;
+    margin: 20px 10px 20px 10px;
+}
+
+/*.main-content .row {*/
+    /*margin-left: 20px;*/
+    /*margin-right: 20px;*/
+/*}*/
+
+#back-to-top-link {
+    margin-left: 20px;
+}
+
+
+/** Desktop **/
+@media (min-width: 992px) {
+    /*.main-content section {*/
+        /*margin:0 20px 20px 20px;*/
+    /*}*/
+}
+
+/** Tablet **/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/**  Mobile **/
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav li {
+        background-color: #985f0d;
+    }
+    .navbar-default .navbar-nav li a{
+        /*text-align: center;*/
+        color: white;
+    }
+}
