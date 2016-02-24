@@ -22,8 +22,9 @@ section {
     right: 0px;
     float: right;
     padding: 5px;
-    border: 1px solid black;
-    width: 20%;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    width: 100px;
     text-align: center;
     font-size: 1.25em;
     color:white;
