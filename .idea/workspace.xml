@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a7f1f3a-4c51-4ba7-866c-bb6503ae422a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mod3/index.html" afterPath="$PROJECT_DIR$/mod3/index.html" />
     </list>
     <ignored path="mod2_solution.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -434,7 +433,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456320368612</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="change the text length">
+      <created>1456320484189</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1456320484189</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -472,7 +477,8 @@
     <MESSAGE value="completed mod3" />
     <MESSAGE value="fix forget link boostrap bug" />
     <MESSAGE value="fix miss page header bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix miss page header bug" />
+    <MESSAGE value="change the text length" />
+    <option name="LAST_COMMIT_MESSAGE" value="change the text length" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
